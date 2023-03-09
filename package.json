@@ -1,0 +1,27 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "dev": "node-dev index --clear --notify=false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-DWA-Session1/S06E02-exos-bot-alexisOclock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-DWA-Session1/S06E02-exos-bot-alexisOclock/issues"
+  },
+  "homepage": "https://github.com/O-clock-DWA-Session1/S06E02-exos-bot-alexisOclock#readme",
+  "dependencies": {
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "node-dev": "^8.0.0"
+  }
+}
